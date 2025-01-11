@@ -1,0 +1,7 @@
+See https://wiki.archlinux.org/title/Kernel_mode_setting
+
+cat correct-edid.bin > /sys/kernel/debug/dri/0/HDMI-A-2/edid_override
+
+(or something similar)
+
+Then unplug and replug monitor
