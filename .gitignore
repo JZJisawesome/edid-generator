@@ -37,3 +37,4 @@
 *.o.pre
 *.o.post
 
+!cvt.c

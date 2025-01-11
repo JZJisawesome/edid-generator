@@ -1,6 +1,8 @@
 edid-generator
 ==============
 
+Modern fork of: https://github.com/akatrevorjay/edid-generator
+
 Hackerswork to generate an EDID binary file from given Xorg Modelines
 
 An extension of the awesome work provided in the Linux kernel documentation (in `docs/EDID`).
